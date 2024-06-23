@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy Leandro - Ezequiel, nacido en Argentina en 1999. Mi objetivo es encontrar una posición que me permita aplicar mis habilidades y experiencia, al mismo tiempo oportunidades para crecimiento profesional. Creo firmemente en la entrega de resultados de alta calidad y en la mejora continua. Si estás buscando a alguien comprometido con el avance y la innovación, estaré encantado de aportar mi experiencia a tu equipo, contáctame.
+¡Buenas! mi nombre es Leandro Ezequiel Raymondi Rossa, tengo 24 años y soy de Argentina, Pilar. Llevo trabajando en el área de desarrollo web principalmente utilizando el stack LAMP y de manera independiente al rededor de un año, actualmente me encuentro en búsqueda de una oportunidad para poder seguir creciendo y potenciando mis habilidades.
 
 
 ## 🌐 Socials:
