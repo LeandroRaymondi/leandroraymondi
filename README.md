@@ -1,6 +1,5 @@
 # 💫 About Me:
-¡Buenas! mi nombre es Leandro Ezequiel Raymondi Rossa, tengo 24 años y soy de Argentina, Pilar. Llevo trabajando en el área de desarrollo web principalmente utilizando el stack LAMP y de manera independiente al rededor de un año, actualmente me encuentro en búsqueda de una oportunidad para poder seguir creciendo y potenciando mis habilidades.
-
+Desarrollador web full stack, 25 años de edad y con más de tres años de experiencia. Participé en multiples desarrollos para empresas destacadas como Google, Novo Nordisk y Roche. Me especializo en la creación de sistemas CRUD utilizando el stack LAMP.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leandroraymondi) 
